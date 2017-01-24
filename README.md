@@ -7,7 +7,7 @@ A utility to generate images with 'realistic' sizing and timestamps. Images are 
   - `brew install pkg-config cairo libpng jpeg giflib` for `canvas` Cairo dependencies
   - `npm install`
   - Edit `config.js` to have appropriate dates, probabilities (0 to 1) and number of photos
-  - `node run generate` will create directories of `YYYY-MM` filled with your 'photos'
+  - `npm run generate` will create directories of `YYYY-MM` filled with your 'photos'
 
 ## Warning!
 
