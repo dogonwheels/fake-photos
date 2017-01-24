@@ -1,0 +1,14 @@
+{
+  "name": "fake-photos",
+  "version": "1.0.0",
+  "description": "Generate fake timestamped images of various size and color",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.6.2"
+  }
+}
